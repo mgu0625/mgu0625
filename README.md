@@ -4,7 +4,8 @@
 
 ![ORCA 6](https://img.shields.io/badge/ORCA-6.0-blueviolet?style=for-the-badge) ![AMD Ryzen](https://img.shields.io/badge/AMD%20Ryzen-E70C00?style=for-the-badge&logo=amd&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ultrafast (fs) ![Ultrafast (fs) TA](https://img.shields.io/badge/Ultrafast-fs-TA-9A348E?style=for-the-badge&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pump-Probe](https://img.shields.io/badge/Pump--Probe-9A348E?style=for-the-badge&logoColor=white)
+
 
 -------
 
@@ -29,7 +30,6 @@
 
 ### 🌈 Spectroscopy Skills:
 
-![Ultrafast (fs) ![Ultrafast (fs) TA](https://img.shields.io/badge/Ultrafast-fs-TA-9A348E?style=for-the-badge&logoColor=white)
 ![OriginLab](https://img.shields.io/badge/OriginLab-C4473A?style=for-the-badge&logoColor=white)
 ![UV-Vis](https://img.shields.io/badge/UV--Vis-468FAF?style=for-the-badge&logoColor=white)
 ![ESR](https://img.shields.io/badge/ESR-5F0F40?style=for-the-badge&logoColor=white)
@@ -38,6 +38,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 💻 Programming & Tech:
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-FE4A49?style=for-the-badge&logo=spyder&logoColor=white)
@@ -85,25 +86,6 @@ Multilingual computational chemistry researcher (EN/JP) with a passion for:
 - 🎮 Creating educational chemistry tools and mini games in Python
 - 🌐 Currently building a whimsical retro-science personal website (with Figma + Spline flair)
 - 📖 Always learning: coding, design, quantum chemistry theory, and a little philosophy on the side
-
---- 
-
-## 🧬 Skills Overview
-
-#### 🔬 Computational Chemistry Tools:
-`ORCA · Gaussian · GAMESS-US ·  TDDFT · Spin Density Mapping · CASPT2 · Avogadro · Webmo · VMD · Chimera · Chemcraft · JSMol · MacmolPlt · PyMol`
-
-#### 🌈 Spectroscopy Skills:
-`Ultrafast(fs) Transient Absorption · UV-vis · ESR · ORACLE · Excel · FTIR`
-
-#### 💻 Programming & Data:
-`Python(Spyder, Jupiter) · MATLAB · Bash · LaTeX · Pandas · NumPy · Git · HTML/CSS/JS · PSI4`
-
-#### 🎨 Creative & UI:
-`Figma · Aseprite · Spline · Pygame· Notion · Obsidian · Procreate`
-
-### 👩🏻‍🔬 Laboratory Skills:
-`NMR · FTIR · Extraction · photolysis analysis · titration · HPLC · Reflux Setup & Monitoring · Distillation · TLC`
 
     
 ---  

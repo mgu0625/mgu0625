@@ -2,12 +2,33 @@
 
 ### Computational Chemist | Spectroscopy Specialist | Creative Coder
 
+![](https://nirzak-streak-stats.vercel.app/?user=mgu0625&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgu0625&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ![ORCA 6](https://img.shields.io/badge/ORCA-6.0-blueviolet?style=for-the-badge) ![AMD Ryzen](https://img.shields.io/badge/AMD%20Ryzen-E70C00?style=for-the-badge&logo=amd&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pump-Probe](https://img.shields.io/badge/Pump--Probe-9A348E?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pump-Probe](https://img.shields.io/badge/Pump--Probe-9A348E?style=for-the-badge&logoColor=white)
 
 
 -------
+
+## 🌸 初めまして 🙇🏻‍♀️ — I'm Monica!
+Multilingual computational chemistry researcher (EN/JP) with a passion for:
+
+- 🧪 **Broken symmetry DFT**, PCET, and spectroscopy using ORCA
+- 💻 Data analysis & visualization using Python (NumPy, Pandas, Matplotlib, etc.)
+- 🎮 Creating educational chemistry tools and mini games in Python
+- 🌐 Currently building a whimsical retro-science personal website (with Figma + Spline flair)
+- 📖 Always learning: coding, design, quantum chemistry theory, and a little philosophy on the side
+
+
+![](https://github-readme-stats.vercel.app/api?username=mgu0625&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mgu0625&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgu0625&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mgu0625&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+-----
 
 ## 🧬 Skills Overview
 
@@ -76,16 +97,6 @@
 ![Distillation](https://img.shields.io/badge/Distillation-3E5C76?style=for-the-badge&logoColor=white)
 ![TLC](https://img.shields.io/badge/TLC-BC4749?style=for-the-badge&logoColor=white)
 
-------
-
-## 🌸 初めまして 🙇🏻‍♀️ — I'm Monica!
-Multilingual computational chemistry researcher (EN/JP) with a passion for:
-
-- 🧪 **Broken symmetry DFT**, PCET, and spectroscopy using ORCA
-- 💻 Data analysis & visualization using Python (NumPy, Pandas, Matplotlib, etc.)
-- 🎮 Creating educational chemistry tools and mini games in Python
-- 🌐 Currently building a whimsical retro-science personal website (with Figma + Spline flair)
-- 📖 Always learning: coding, design, quantum chemistry theory, and a little philosophy on the side
 
     
 ---  
@@ -120,17 +131,3 @@ I love roller skating, reading speculative fiction, drawing cute science things,
 
 ---
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mgu0625&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mgu0625&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgu0625&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mgu0625&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=mgu0625&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -4,9 +4,78 @@
 
 ![ORCA 6](https://img.shields.io/badge/ORCA-6.0-blueviolet?style=for-the-badge) ![AMD Ryzen](https://img.shields.io/badge/AMD%20Ryzen-E70C00?style=for-the-badge&logo=amd&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ultrafast fs Spec](https://img.shields.io/badge/Ultrafast-fs-Transient-Red?style=for-the-badge)
+ ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ultrafast (fs) ![Ultrafast (fs) TA](https://img.shields.io/badge/Ultrafast-fs-TA-9A348E?style=for-the-badge&logoColor=white)
 
 -------
+
+## 🧬 Skills Overview
+
+### 🔬 Computational Chemistry Tools:
+
+![ORCA 6](https://img.shields.io/badge/ORCA-6.0-blueviolet?style=for-the-badge)
+![Gaussian](https://img.shields.io/badge/Gaussian-Red?style=for-the-badge)
+![GAMESS US](https://img.shields.io/badge/GAMESS--US-003366?style=for-the-badge)
+![TDDFT](https://img.shields.io/badge/TDDFT-005F73?style=for-the-badge&logoColor=white)
+![CASPT2](https://img.shields.io/badge/CASPT2-006D77?style=for-the-badge&logoColor=white)
+![WebMO](https://img.shields.io/badge/WebMO-0066CC?style=for-the-badge&logoColor=white)
+![Avogadro](https://img.shields.io/badge/Avogadro-0A9396?style=for-the-badge&logoColor=white)
+![VMD](https://img.shields.io/badge/VMD-A34AC9?style=for-the-badge&logoColor=white)
+![Chimera](https://img.shields.io/badge/Chimera-005F73?style=for-the-badge&logoColor=white)
+![Chemcraft](https://img.shields.io/badge/Chemcraft-4C6EFF?style=for-the-badge&logoColor=white)
+![JS Mol](https://img.shields.io/badge/JS%20Mol-0088AA?style=for-the-badge&logoColor=white)
+![MacmolPlt](https://img.shields.io/badge/MacmolPlt-475569?style=for-the-badge&logoColor=white)
+![Molcas](https://img.shields.io/badge/Molcas-4F518C?style=for-the-badge&logoColor=white)
+![PyMOL](https://img.shields.io/badge/PyMOL-5F0F40?style=for-the-badge&logoColor=white)
+
+### 🌈 Spectroscopy Skills:
+
+![Ultrafast (fs) ![Ultrafast (fs) TA](https://img.shields.io/badge/Ultrafast-fs-TA-9A348E?style=for-the-badge&logoColor=white)
+![OriginLab](https://img.shields.io/badge/OriginLab-C4473A?style=for-the-badge&logoColor=white)
+![UV-Vis](https://img.shields.io/badge/UV--Vis-468FAF?style=for-the-badge&logoColor=white)
+![ESR](https://img.shields.io/badge/ESR-5F0F40?style=for-the-badge&logoColor=white)
+![FTIR](https://img.shields.io/badge/FTIR-3D405B?style=for-the-badge&logoColor=white)
+![NMR](https://img.shields.io/badge/NMR-264653?style=for-the-badge&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 💻 Programming & Tech:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-FE4A49?style=for-the-badge&logo=spyder&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
+![PSI4](https://img.shields.io/badge/PSI4-001E6C?style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+
+### 🎨 Creative & UI:
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Spline](https://img.shields.io/badge/Spline-F5C6EC?style=for-the-badge&logoColor=black)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) 
+![Pygame](https://img.shields.io/badge/Pygame-6A994E?style=for-the-badge&logoColor=white)
+![Procreate](https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=procreate&logoColor=white)
+
+### 👩🏻‍🔬 Laboratory Skills:
+![Extraction](https://img.shields.io/badge/Extraction-3D348B?style=for-the-badge&logoColor=white)
+![Photolysis](https://img.shields.io/badge/Photolysis-FF6F59?style=for-the-badge&logoColor=white)
+![Titration](https://img.shields.io/badge/Titration-A1C181?style=for-the-badge&logoColor=black)
+![HPLC](https://img.shields.io/badge/HPLC-6B9080?style=for-the-badge&logoColor=white)
+![Reflux Rxn](https://img.shields.io/badge/Reflux%20Rxn-C44536?style=for-the-badge&logoColor=white)
+![Distillation](https://img.shields.io/badge/Distillation-3E5C76?style=for-the-badge&logoColor=white)
+![TLC](https://img.shields.io/badge/TLC-BC4749?style=for-the-badge&logoColor=white)
+
+------
 
 ## 🌸 初めまして 🙇🏻‍♀️ — I'm Monica!
 Multilingual computational chemistry researcher (EN/JP) with a passion for:
@@ -69,15 +138,12 @@ I love roller skating, reading speculative fiction, drawing cute science things,
 
 ---
 
-# ##💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mgu0625&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mgu0625&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgu0625&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mgu0625&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mgu0625&limit=5&theme=dark&combine_all_yearly_contributions=true)

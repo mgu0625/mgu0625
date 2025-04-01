@@ -23,9 +23,6 @@ Multilingual computational chemistry researcher (EN/JP) with a passion for:
 - 📖 Always learning: coding, design, quantum chemistry theory, and a little philosophy on the side
 
 
-![](https://github-readme-stats.vercel.app/api?username=mgu0625&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=mgu0625&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
 -----
 
 ## 🧬 Skills Overview

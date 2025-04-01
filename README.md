@@ -3,7 +3,14 @@
 ### Computational Chemist | Spectroscopy Specialist | Creative Coder
 
 ![](https://nirzak-streak-stats.vercel.app/?user=mgu0625&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgu0625&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgu0625&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/mgu0625/mgu0625/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 ![ORCA 6](https://img.shields.io/badge/ORCA-6.0-blueviolet?style=for-the-badge) ![AMD Ryzen](https://img.shields.io/badge/AMD%20Ryzen-E70C00?style=for-the-badge&logo=amd&logoColor=white)

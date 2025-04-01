@@ -24,8 +24,6 @@ Multilingual computational chemistry researcher (EN/JP) with a passion for:
 
 
 ![](https://github-readme-stats.vercel.app/api?username=mgu0625&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mgu0625&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgu0625&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=mgu0625&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 -----

@@ -6,9 +6,11 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgu0625&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mgu0625/mgu0625/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media"(prefers-color-scheme: dark)" srcset="https://github.com/mgu0625/mgu0625/blob/output/github-snake-dark.svg" />
+  <source media"(prefers-color-scheme: light)" srcset="https://github.com/mgu0625/mgu0625/blob/output/github-snake.svg" />
+  <img alt="firhub-snake" src=""https://raw.githubusercontent.com/mgu0625/mgu0625/output/github-snake.svg" />
+</picture>
 
 ###
 

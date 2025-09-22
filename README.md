@@ -17,7 +17,7 @@
 
 ![ORCA 6](https://img.shields.io/badge/ORCA-6.0-blueviolet?style=for-the-badge) ![AMD Ryzen](https://img.shields.io/badge/AMD%20Ryzen-E70C00?style=for-the-badge&logo=amd&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pump-Probe](https://img.shields.io/badge/Pump--Probe-9A348E?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Three.js](https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 
 -------
@@ -28,8 +28,8 @@ Multilingual computational chemistry researcher (EN/JP) with a passion for:
 - 🧪 **Broken symmetry DFT**, PCET, and spectroscopy using ORCA
 - 💻 Data analysis & visualization using Python (NumPy, Pandas, Matplotlib, etc.)
 - 🎮 Creating educational chemistry tools and mini games in Python
-- 🌐 Currently building a whimsical retro-science personal website (with Figma + Spline flair)
-- 📖 Always learning: coding, design, quantum chemistry theory, and a little philosophy on the side
+- 🌐 Currently building a whimsical retro-science personal website (with Figma + Blender flair)
+- 📖 Always learning: coding, 3D modeling and animation, graphic design, quantum chemistry theory, and a little philosophy on the side
 
 
 -----
@@ -85,6 +85,7 @@ Multilingual computational chemistry researcher (EN/JP) with a passion for:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
 ### 🎨 Creative & UI:
+![Blender](https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=Blender&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Spline](https://img.shields.io/badge/Spline-F5C6EC?style=for-the-badge&logoColor=black)

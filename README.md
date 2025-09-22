@@ -1,6 +1,6 @@
 # Hello World🫰🏼  I'm Monica Utashiro!
 
-### Computational Chemist | Spectroscopy Specialist | Creative Coder
+### Computational Chemist | Spectroscopy Specialist | Scientific Software & Visualization Developer
 
 ![](https://nirzak-streak-stats.vercel.app/?user=mgu0625&theme=dark&hide_border=false)
 

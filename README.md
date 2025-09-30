@@ -15,9 +15,11 @@
 ###
 
 
-![ORCA 6](https://img.shields.io/badge/ORCA-6.0-blueviolet?style=for-the-badge) ![AMD Ryzen](https://img.shields.io/badge/AMD%20Ryzen-E70C00?style=for-the-badge&logo=amd&logoColor=white)
+![ORCA 6](https://img.shields.io/badge/ORCA-6.0-blueviolet?style=for-the-badge) 
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Three.js](https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=Blender&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 
 -------

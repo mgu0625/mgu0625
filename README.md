@@ -1,4 +1,4 @@
-# Hello World🫰🏼  I'm Monica Utashiro!
+# Hello World🫰🏼  I'm M.G. Utashiro!
 
 ### Physical Chemist | Scientific Software & Visualization Developer
 

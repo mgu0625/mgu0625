@@ -24,7 +24,7 @@
 
 -------
 
-## 🌸 初めまして 🙇🏻‍♀️ — I'm Monica!
+## 🌸 初めまして 🙇🏻‍♀️ — Nice to Meet You!
 Multilingual computational chemistry researcher (EN/JP) with a passion for:
 
 - 🧪 **Broken symmetry DFT**, PCET, and spectroscopy using ORCA
